@@ -51,6 +51,6 @@
 		"webpack-cli": "^3.3.11"
 	},
 	"dependencies": {
-		"url-parse": "^1.4.7"
+		"url-parse": "^1.5.6"
 	}
 }
